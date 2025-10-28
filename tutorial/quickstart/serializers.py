@@ -13,3 +13,4 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 
 
 
+# I need to find out what this stuff does
